@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Fon</string>
+    <string name="tab_text_1">VESTI</string>
+    <string name="tab_text_2">KONSULTACIJE</string>
+    <string name="tab_text_3">UPIS 2018</string>
+    <string name="action_settings">e-student</string>
+    <string name="kontakt">Kontakt</string>
+    <string name="action_settings3">Cenovnik</string>
+    <string name="nazad_na_vesti">Nazad na vesti</string>
+    <string name="dodaj">DODAJ/IZMENI</string>
+    <string name="prikazi">PRIKAZI ISPITE</string>
+    <string name="naziv">NAZIV ISPITA</string>
+    <string name="ocena">OCENA</string>
+    <string name="unesite_ime">IME i PREZIME</string>
+    <string name="unesite_termin">TERMIN</string>
+    <string name="unesite_kabinet">KABINET</string>
+    <string name="unesite_ime_hint">Unesite ime i prezime</string>
+    <string name="Unesite_termin_hint">Unesite termin</string>
+    <string name="Unesite_kabinet_hint">Unesite kabinet</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_student">StudentActivity</string>
+</resources>

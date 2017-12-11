@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ivan.fon.activities.MainActivity"
+    >
+    <item
+        android:id="@+id/e_student"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:visible="true"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/kontakt"
+        android:orderInCategory="100"
+        android:title="@string/kontakt"
+        android:visible="true"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cenovnik"
+        android:orderInCategory="100"
+        android:title="@string/action_settings3"
+        android:visible="true"
+        app:showAsAction="never"
+        android:icon="@drawable/home"/>
+
+</menu>
